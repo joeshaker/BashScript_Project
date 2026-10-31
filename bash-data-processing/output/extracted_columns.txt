@@ -1,0 +1,6 @@
+Department,Salary
+IT,15000
+HR,12000
+Finance,18000
+IT,16000
+Marketing,14000

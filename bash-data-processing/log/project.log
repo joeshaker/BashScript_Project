@@ -1,0 +1,35 @@
+[2026-10-29 16:44:54] Success: Directories initiated successfully
+[2026-10-30 21:31:07] SUCCESS: Command found: awk
+[2026-10-30 21:31:07] SUCCESS: Command found: sort
+[2026-10-30 21:31:07] SUCCESS: Command found: uniq
+[2026-10-30 21:31:07] SUCCESS: Command found: wc
+[2026-10-30 21:31:07] SUCCESS: Command found: cut
+[2026-10-30 21:31:07] SUCCESS: All dependencies are available
+[2026-10-30 21:31:07] Success: Directories initiated successfully
+[2026-10-30 21:48:14] Success: Directories initiated successfully
+[2026-10-30 21:48:14] ERROR: File is not found: /data/data.txt
+[2026-10-30 21:48:29] Success: Directories initiated successfully
+[2026-10-30 21:48:29] INFO: File: data/data.txt
+[2026-10-30 21:48:29] SUCCESS: Number of lines: 2
+[2026-10-30 21:50:21] Success: Directories initiated successfully
+[2026-10-30 21:50:21] INFO: File: data/data.txt
+[2026-10-30 21:50:21] SUCCESS: Number of lines: 3
+[2026-10-30 22:35:41] ERROR: File not found : 2
+[2026-10-30 22:36:16] Success: Directories initiated successfully
+[2026-10-30 22:36:16] ERROR: File not found : 2
+[2026-10-30 22:37:07] Success: Directories initiated successfully
+[2026-10-30 22:37:07] SUCCESS: File extracted successfully to output/extracted_columns.txt
+[2026-10-31 14:45:42] SUCCESS: Directories initialized successfully
+[2026-10-31 14:45:42] INFO: Script started
+[2026-10-31 14:46:01] INFO: File: data/data.csv
+[2026-10-31 14:46:01] SUCCESS: Number of lines: 5
+[2026-10-31 14:46:39] SUCCESS: Extracted columns saved to output/extracted_columns.txt
+[2026-10-31 14:46:49] SUCCESS: Command found: awk
+[2026-10-31 14:46:49] SUCCESS: Command found: sort
+[2026-10-31 14:46:49] SUCCESS: Command found: uniq
+[2026-10-31 14:46:49] SUCCESS: Command found: wc
+[2026-10-31 14:46:49] SUCCESS: Command found: cut
+[2026-10-31 14:46:50] SUCCESS: Command found: grep
+[2026-10-31 14:46:50] SUCCESS: Command found: cat
+[2026-10-31 14:46:50] SUCCESS: All dependencies are available
+[2026-10-31 14:46:55] INFO: Script stopped by user
